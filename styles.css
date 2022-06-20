@@ -1,0 +1,35 @@
+body {
+    background-color: #fdefef;
+    color: rgba(240, 72, 108, 0.603);
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul a {
+    color: rgba(240, 72, 108, 0.603);
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.content li {
+    margin: 10px;
+    border-bottom: 2px solid white;
+    width: 223px;
+    padding-bottom: 5px;
+}
+
+.content ul{
+    list-style: none;
+}
+
+.content {
+    display: flex;
+}
+
+#cover-photo {
+    width: 553px;
+}
